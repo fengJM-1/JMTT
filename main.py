@@ -10,7 +10,8 @@ import matplotlib as plt
 for path, root ,files in os.walk(../file)
   print(f"位置{path}")
 
-
+import pytorch
+from torch.nn import nn
 
 
 
