@@ -14,4 +14,6 @@ import pytorch
 from torch.nn import nn
 
 
-
+class nnworks(nn.Module)
+  def __init__():
+    print(f"123")
